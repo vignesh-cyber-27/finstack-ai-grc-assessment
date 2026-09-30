@@ -2,7 +2,7 @@
 
 A GRC portfolio project: a full risk and compliance assessment for a fictional Bengaluru Banking-as-a-Service (BaaS) platform rolling out an AI fraud detection model and an LLM-based customer support copilot.
 
-**Prepared by:** Vignesh S · [LinkedIn](#) · [Email](#)
+**Prepared by:** Vignesh S · [LinkedIn](#) · [Email](vigneshvigu38@gmail.com)
 
 ## Why this project
 
